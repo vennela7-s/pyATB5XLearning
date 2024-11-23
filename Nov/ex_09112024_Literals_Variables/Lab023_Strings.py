@@ -1,0 +1,6 @@
+value = input("Enter the value: ")
+print(value)
+print(type(value))
+print(len(value))
+print(value.upper())
+print(value.lower())
